@@ -45,16 +45,10 @@ The demo showcases:
 
 ---
 
-## Screenshot
-
-![HCI Principles Button Demo](screenshot.png)
-
-*(Optional: add a screenshot of your button if desired)*
-
----
 
 ## Author
 **Abdur Rafay Ali Khan**  
+**Seat No: B23110006004**
 
 ---
 
